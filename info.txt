@@ -1,1 +1,2 @@
 John Diaz
+Adding a 3rd line in info.txt from dev branch from user 1 without merging or pulling a damn thing.
