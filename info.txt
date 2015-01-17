@@ -1,2 +1,6 @@
 John Diaz
+//I'm accepting both changes here. This is my resolve.
 Adding a 3rd line in info.txt from dev branch from user 1 without merging or pulling a damn thing.
+
+Added a 2nd line from Practice2
+
